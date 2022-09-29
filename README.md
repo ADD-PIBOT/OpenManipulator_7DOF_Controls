@@ -2,7 +2,9 @@
 <!-- [![Build Status](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_p_controls.svg?branch=master)](https://travis-ci.org/ROBOTIS-GIT/open_manipulator_p_controls) -->
 
 ## Dependencies
+```bash
 sudo apt-get install ros-<YOUR_ROS_DISTRO>-dynamixel-workbench-toolbox*
+```
 
 ## How to Run
 ```bash
